@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:26:47.352573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:24
 #+TITLE: 佛頂最勝陀羅尼經
 #+PROPERTY: CBETA_ID T19n0969
 #+PROPERTY: ID KR6j0146
@@ -14,7 +14,7 @@
 ¶
 No.969¶
 
-佛頂最勝陀羅尼經序
+* 佛頂最勝陀羅尼經序
 :PROPERTIES:
 :head: 佛頂最勝陀羅尼經序
 :END:
@@ -234,7 +234,7 @@ No.969¶
 <pb:KR6j0146_T_001-0357b>¶
 ¶
 
-大輪金剛陀羅尼
+* 大輪金剛陀羅尼
 :PROPERTIES:
 :head: 大輪金剛陀羅尼
 :END:
